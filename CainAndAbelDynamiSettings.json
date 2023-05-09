@@ -1,0 +1,20 @@
+{
+	"mode": "本番環境",
+	"debug_add_money_in_start_game": false,
+	"debug_arrange_item": false,
+	"debug_player_init_pos": false,
+	"need_money_for_treasure_box": 10,
+	"god_penalty_pend_time_sec": 3.0,
+	"weapon_direct_attack_interval_sec": 0.2,
+	"god_penalty_faith_sub_val": 50,
+	"god_orb_faith_sub_val": 15,
+	"sheep_bring_weapon_appear_num": 3,
+	"barometz_in_alter_faith_speed_up_rate": 1.5,
+	"ninjin_shoot_interval_sec": 1.0,
+	"sheep_shoot_interval_sec": 0.6,
+	"cain_speed_rate": 1.1,
+	"abel_speed_rate": 1.2,
+	"god_speed_rate": 1.0,
+	"zetsuyuru_speed_mul_rate": 0.4,
+	"item_treasure_box_disp_num": 12
+}
