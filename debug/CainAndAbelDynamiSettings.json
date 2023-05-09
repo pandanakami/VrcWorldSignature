@@ -8,6 +8,8 @@
 	"weapon_direct_attack_interval_sec": 0.2,
 	"god_penalty_faith_sub_val": 50,
 	"god_orb_faith_sub_val": 15,
+	"god_penalty_faith_sub_rate": 0.25,
+	"god_orb_faith_sub_rate": 0.15,
 	"sheep_bring_weapon_appear_num": 3,
 	"barometz_in_alter_faith_speed_up_rate": 1.5,
 	"ninjin_shoot_interval_sec": 1.0,
