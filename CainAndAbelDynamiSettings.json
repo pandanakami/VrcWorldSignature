@@ -16,5 +16,7 @@
 	"abel_speed_rate": 1.2,
 	"god_speed_rate": 1.0,
 	"zetsuyuru_speed_mul_rate": 0.4,
-	"item_treasure_box_disp_num": 12
+	"item_treasure_box_disp_num": 12,
+	"sheep_recover_percent_auto_setting_min": 5,
+	"sheep_recover_percent_auto_setting_max": 20
 }
