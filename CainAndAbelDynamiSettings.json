@@ -6,7 +6,7 @@
 	"need_money_for_treasure_box": 10,
 	"god_penalty_pend_time_sec": 3.0,
 	"weapon_direct_attack_interval_sec": 0.2,
-	"god_penalty_faith_sub_rate": 0.25,
+	"god_penalty_faith_sub_rate": 0.3,
 	"god_orb_faith_sub_rate": 0.15,
 	"sheep_bring_weapon_appear_num": 3,
 	"barometz_in_alter_faith_speed_up_rate": 1.5,
