@@ -18,5 +18,6 @@
 	"zetsuyuru_speed_mul_rate": 0.4,
 	"item_treasure_box_disp_num": 12,
 	"sheep_recover_percent_auto_setting_min": 5,
-	"sheep_recover_percent_auto_setting_max": 23
+	"sheep_recover_percent_auto_setting_max": 23,
+	"max_faith_point_rate": 0.75
 }
