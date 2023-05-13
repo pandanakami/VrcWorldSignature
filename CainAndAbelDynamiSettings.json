@@ -3,7 +3,7 @@
 	"debug_add_money_in_start_game": false,
 	"debug_arrange_item": false,
 	"debug_player_init_pos": false,
-	"need_money_for_treasure_box": 10,
+	"need_money_for_treasure_box": 20,
 	"god_penalty_pend_time_sec": 3.0,
 	"weapon_direct_attack_interval_sec": 0.2,
 	"god_penalty_faith_sub_rate": 0.3,
