@@ -1,7 +1,7 @@
 {
 	"mode": "デバッグ環境",
 	"debug_add_money_in_start_game": true,
-	"debug_arrange_item": false,
+	"debug_arrange_item": true,
 	"need_money_for_treasure_box": 20,
 	"god_penalty_pend_time_sec": 3,
 	"weapon_direct_attack_interval_sec": 0.2,
