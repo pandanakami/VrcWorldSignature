@@ -19,5 +19,7 @@
 	"sheep_recover_percent_auto_setting_min": 5,
 	"sheep_recover_percent_auto_setting_max": 23,
 	"max_faith_point_rate": 0.75,
-	"game_end_cool_down_time": 2.5
+	"game_end_cool_down_time": 2.5,
+	"sabbath_recover_point_rate": 0.5,
+	"sabbath_speed_down_rate": 0.5
 }
