@@ -24,5 +24,6 @@
 	"game_end_cool_down_time": 2.5,
 	"sabbath_recover_point_rate": 0.4,
 	"sabbath_speed_down_rate": 0.5,
-	"manna_speed_up_rate": 1.5
+	"manna_speed_up_rate": 1.5,
+	"cloud_speed_down_rate": 0.2
 }
